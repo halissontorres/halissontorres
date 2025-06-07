@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=halissontorres&color=blue)
 
 
-## 👨🏽‍🎓 Sobre Mim
+## 👨🏽‍🎓 Sobre mim
 
 Servidor público, desenvolvedor, entusiasta da cultura **DevOps**, curioso por **blockchain** e **criptografia** (embora um grandissíssimo leigo). Atualmente cursando Pós-Graduação em *FullStack Development* na [PUC-RS](https://online.pucrs.br/pt-br/), sempre em busca de autodesenvolvimento.
 
@@ -11,9 +11,9 @@ Servidor público, desenvolvedor, entusiasta da cultura **DevOps**, curioso por 
 ⏰ **Fuso Horário:** UTC-3  
 🎓 **Formação:** 
  - Graduado em Ciências da computação
- - Pós-Graduação em FullStack Development - PUC-RS
+ - Pós-Graduando em FullStack Development - PUC-RS
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & ferramentas
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -27,7 +27,7 @@ Servidor público, desenvolvedor, entusiasta da cultura **DevOps**, curioso por 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 📊 Projetos em Destaque
+## 📊 Projetos em destaque
 
 ### 🔬 [Ajuste de Correlação Hindemburg](https://github.com/halissontorres/ajuste-correlacao-hindemburg)
 Implementação prática da fórmula HM de Hindemburg Melão Jr para correção da correlação de Pearson em casos com restrição de faixa, como amostras homogêneas ou limitadas.
@@ -47,7 +47,7 @@ Repositório dedicado às atividades e projetos do curso de Pós-Graduação em 
 ### ⛓️ [Markov Chain](https://github.com/halissontorres/markov-chain)
 Implementação de Cadeias de Markov - modelo matemático para processos estocásticos onde a probabilidade de um estado futuro depende apenas do estado atual.
 
-**Tech Stack:** Matemática | Algoritmos | Python
+**Tech Stack:** Matemática | Algoritmos | Java
 
 ## 📈 GitHub Stats
 
