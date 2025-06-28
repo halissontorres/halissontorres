@@ -60,12 +60,12 @@ Implementação de Cadeias de Markov - modelo matemático para processos estocá
   
 </div>
 
-## 🤝 Vamos Conectar!
+## 🤝 Vamos conectar!
 
 Sempre aberto para colaborações interessantes, discussões tecnologia, blockchain e desenvolvimento de software!
 
+[![Keybase](https://img.shields.io/keybase/pgp/halissontorres?style=for-the-badge&logo=keybase&logoColor=white&logoSize=auto&label=KEYBASE)](https://keybase.io/halissontorres)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halisson-torres/)
-[![PGP](https://img.shields.io/keybase/pgp/halissontorres?style=for-the-badge&label=PGP)](https://keybase.io/halissontorres/)
 
 ## 💰 Apoie
 
