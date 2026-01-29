@@ -31,6 +31,11 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 ## Projetos em Destaque
 
+### [GGM Analyzer](https://github.com/halissontorres/ggm)
+Análise de preço justo de ações brasileiras usando o Modelo de Gordon (Gordon Growth Model). Permite calcular o valor intrínseco de ações com base em dividendos futuros esperados, taxa de crescimento e taxa de desconto.
+
+**Stack:** Python, Pandas, NumPy, yfinance
+
 ### [Ajuste de Correlação Hindemburg](https://github.com/halissontorres/ajuste-correlacao-hindemburg)
 Implementação da fórmula HM de Hindemburg Melão Jr para correção da correlação de Pearson em casos com restrição de faixa, onde a correlação observada pode ser subestimada. Inclui serviço REST com Docker.
 
