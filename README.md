@@ -31,6 +31,9 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 ## Projetos em Destaque
 
+### [Goexpert](https://github.com/halissontorres/goexpert)
+Repositório destinado e às atividades do curso de Pós-graduação em Go lang da Full Cycle. Inclui exercícios, projetos e desafios relacionados à linguagem Go, com foco em desenvolvimento de microsserviços, APIs REST e práticas de DevOps.
+
 ### [GGM Analyzer](https://github.com/halissontorres/ggm)
 Análise de preço justo de ações brasileiras usando o Modelo de Gordon (Gordon Growth Model). Permite calcular o valor intrínseco de ações com base em dividendos futuros esperados, taxa de crescimento e taxa de desconto.
 
