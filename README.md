@@ -31,6 +31,11 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 ## Projetos em Destaque
 
+### [Go.bag - Biblioteca de coleções tipadas](https://github.com/halissontorres/go-bag)
+Biblioteca em Go que fornece coleções de dados fortemente tipadas e suporte de primeira classe para enums. Inspirada em bibliotecas de coleções de outras linguagens, como Java e C#, mas adaptada para as características e idiomatismos do Go. Permite criar e manipular listas, conjuntos, mapas e filas de forma eficiente e segura, com suporte a operações comuns como filtragem, mapeamento e redução. A biblioteca é projetada para ser fácil de usar e integrar em projetos Go, oferecendo uma alternativa mais rica e expressiva para manipulação de dados em comparação com as coleções nativas do Go.
+
+**Stack:** Go
+
 ### [Go expert - Client-Server API | cotação](https://github.com/halissontorres/go-expert-client-server-api)
 Repositório destinado e às atividades do curso de Pós-graduação em Go lang da Full Cycle. Inclui implementação de API REST para cotação de moeda, utilizando Go.
 
