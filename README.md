@@ -31,6 +31,16 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 ## Projetos em Destaque
 
+### [Go expert | desafio técnico | construir um sistema que busca o endereço mais rápido entre duas APIs de CEP distintas](https://github.com/halissontorres/go-expert-consulta-cep)
+Repositório destinado e às atividades do curso de Pós-graduação em Go lang da Full Cycle. Inclui implementação de API REST para consulta de CEP, utilizando Go.
+
+**Stack:** Go
+
+### [Rinha de backend 2026](https://github.com/halissontorres/rinha-backend-2026-go)
+Repositório à Implementação em Go para a Rinha de Backend 2026.
+
+**Stack:** Go
+
 ### [Go.bag - Biblioteca de coleções tipadas](https://github.com/halissontorres/go-bag)
 Biblioteca em Go que fornece coleções de dados fortemente tipadas e suporte de primeira classe para enums. Inspirada em bibliotecas de coleções de outras linguagens, como Java e C#, mas adaptada para as características e idiomatismos do Go. Permite criar e manipular listas, conjuntos, mapas e filas de forma eficiente e segura, com suporte a operações comuns como filtragem, mapeamento e redução. A biblioteca é projetada para ser fácil de usar e integrar em projetos Go, oferecendo uma alternativa mais rica e expressiva para manipulação de dados em comparação com as coleções nativas do Go.
 
@@ -38,6 +48,8 @@ Biblioteca em Go que fornece coleções de dados fortemente tipadas e suporte de
 
 ### [Go expert - Client-Server API | cotação](https://github.com/halissontorres/go-expert-client-server-api)
 Repositório destinado e às atividades do curso de Pós-graduação em Go lang da Full Cycle. Inclui implementação de API REST para cotação de moeda, utilizando Go.
+
+**Stack:** Go
 
 ### [GGM Analyzer](https://github.com/halissontorres/ggm)
 Análise de preço justo de ações brasileiras usando o Modelo de Gordon (Gordon Growth Model). Permite calcular o valor intrínseco de ações com base em dividendos futuros esperados, taxa de crescimento e taxa de desconto.
