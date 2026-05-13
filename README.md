@@ -37,7 +37,7 @@ Repositório destinado e às atividades do curso de Pós-graduação em Go lang 
 **Stack:** Go
 
 ### [Rinha de backend 2026](https://github.com/halissontorres/rinha-backend-2026-go)
-Repositório à Implementação em Go para a Rinha de Backend 2026.
+Repositório da implementação em Go para a Rinha de Backend 2026.
 
 **Stack:** Go
 
