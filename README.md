@@ -31,6 +31,12 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 ## Projetos em Destaque
 
+
+### [Go expert |Desafio técnico | Implementação da funcionalidade de Listagem de Orders seguindo os princípios de Clean Architecture. ](https://github.com/halissontorres/go-expert-desafio-clean-arch)
+Repositório destinado e às atividades do curso de Pós-graduação em Go lang da Full Cycle. Sistema de pedidos (Orders) implementado com Clean Architecture em Go, expondo o caso de uso de listagem de pedidos via REST, gRPC e GraphQL simultaneamente.
+
+**Stack:** Go
+
 ### [Go expert | desafio técnico | construir um sistema que busca o endereço mais rápido entre duas APIs de CEP distintas](https://github.com/halissontorres/go-expert-consulta-cep)
 Repositório destinado e às atividades do curso de Pós-graduação em Go lang da Full Cycle. Inclui implementação de API REST para consulta de CEP, utilizando Go.
 
