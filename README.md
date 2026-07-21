@@ -31,13 +31,13 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 ## Projetos em Destaque
 
-### [Go expert |Desafio técnico | Rate limiter em golang](https://github.com/halissontorres/go-expert-rate-limiter)
-Repositório destinado e às atividades do curso de Pós-graduação em Go lang da Full Cycle. Implementação em golang de um ratelimiter
+### [Go expert | Desafio técnico | Rate limiter em golang](https://github.com/halissontorres/go-expert-rate-limiter)
+Repositório destinado às atividades do curso de Pós-graduação em Go lang da Full Cycle. Implementação em golang de um ratelimiter
 
 **Stack:** Go, Docker, Redis
 
-### [Go expert |Desafio técnico | Implementação da funcionalidade de Listagem de Orders seguindo os princípios de Clean Architecture. ](https://github.com/halissontorres/go-expert-desafio-clean-arch)
-Repositório destinado e às atividades do curso de Pós-graduação em Go lang da Full Cycle. Sistema de pedidos (Orders) implementado com Clean Architecture em Go, expondo o caso de uso de listagem de pedidos via REST, gRPC e GraphQL simultaneamente.
+### [Go expert | Desafio técnico | Implementação da funcionalidade de Listagem de Orders seguindo os princípios de Clean Architecture. ](https://github.com/halissontorres/go-expert-desafio-clean-arch)
+Repositório destinado às atividades do curso de Pós-graduação em Go lang da Full Cycle. Sistema de pedidos (Orders) implementado com Clean Architecture em Go, expondo o caso de uso de listagem de pedidos via REST, gRPC e GraphQL simultaneamente.
 
 **Stack:** Go, Docker, gRPC, GraphQL, RESTful
 
