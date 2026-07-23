@@ -4,10 +4,13 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 **Localização:** Brasil | UTC-3
 
-**Formação:**
-- Graduação em Ciências da Computação — UNIPÊ
-- Pós-Graduação em FullStack Development — PUC-RS
-- Pós-graduação em GoLang (em andamento) — FCTECH
+## Formação
+
+| Formação                              | Instituição     | Status              |
+|---------------------------------------|-----------------|---------------------|
+| Graduação em Ciências da Computação   | UNIPÊ           | Concluído           |
+| Pós-Graduação em FullStack Development| PUC-RS          | Concluído           |
+| Pós-Graduação em GoLang               | FCTECH          | Em andamento        |
 
 ---
 
