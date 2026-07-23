@@ -32,7 +32,7 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 ---
 
-## Projetos em Destaque
+## Projetos em destaque
 
 ### [Go expert | Desafio técnico | CLI stress tester em golang](https://github.com/halissontorres/go-expert-cli-stress-test)
 Repositório destinado às atividades do curso de Pós-graduação em Go lang da Full Cycle. Implementação em golang de CLI para realizar testes de carga em serviços web.
