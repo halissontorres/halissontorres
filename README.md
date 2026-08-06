@@ -34,8 +34,15 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 ## Projetos em destaque
 
+### [Go expert | Desafio técnico | Serviço clima baseado em CEP, com observabilidade ](https://github.com/halissontorres/go-expert-clima-cep-observability)
+Repositório destinado às atividades do curso de Pós-graduação em Go lang da Full Cycle. Implementação de sistema distribuído em Go composto por dois microsserviços que cooperam para consultar o clima de uma cidade baseada no CEP, com observabilidade. 
+
+**Stack:** Go, Docker, OpenTelemetry e Zipkin.
+
 ### [Go expert | Desafio técnico | Serviço clima baseado em CEP](https://github.com/halissontorres/go-expert-clima-cep)
 Repositório destinado às atividades do curso de Pós-graduação em Go lang da Full Cycle. Implementação em golang de serviço de consulta ao clima, baseado em CEP.
+
+**Stack:** Go, Docker
 
 ### [Go expert | Desafio técnico | CLI stress tester em golang](https://github.com/halissontorres/go-expert-cli-stress-test)
 Repositório destinado às atividades do curso de Pós-graduação em Go lang da Full Cycle. Implementação em golang de CLI para realizar testes de carga em serviços web.
