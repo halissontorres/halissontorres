@@ -34,6 +34,11 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 
 ## Projetos em destaque
 
+### [Go expert | Desafio técnico | Implementação em Go de sistema de leilões](https://github.com/halissontorres/go-expert-auction)
+Repositório destinado às atividades do curso de Pós-graduação em Go lang da Full Cycle. Implementação de Implementação em Go de sistema de leilões. 
+
+**Stack:** Go, Docker e MongoDB.
+
 ### [Go expert | Desafio técnico | Serviço clima baseado em CEP, com observabilidade ](https://github.com/halissontorres/go-expert-clima-cep-observability)
 Repositório destinado às atividades do curso de Pós-graduação em Go lang da Full Cycle. Implementação de sistema distribuído em Go composto por dois microsserviços que cooperam para consultar o clima de uma cidade baseada no CEP, com observabilidade. 
 
