@@ -10,7 +10,8 @@ Servidor público e desenvolvedor de software com interesse em práticas DevOps,
 |---------------------------------------|-----------------|---------------------|
 | Graduação em Ciências da Computação   | UNIPÊ           | Concluído           |
 | Pós-Graduação em FullStack Development| PUC-RS          | Concluído           |
-| Pós-Graduação em GoLang               | FCTECH          | Em andamento        |
+| Pós-Graduação em GoLang               | FCTECH          | Concluído           |
+| Pós-Graduação em Cibersegurança       | USP/Esalq          | Em andamento           |
 
 ---
 
